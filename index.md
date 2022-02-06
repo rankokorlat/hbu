@@ -174,22 +174,16 @@ Tribina u Subotici
 # Uključi se
 
 
-Javni poziv za pisanje udžbenika
+- [Javni poziv za pisanje udžbenika](https://pbs.twimg.com/media/Ebsdc-MXQAATs50?format=jpg&name=4096x4096)
 
-[https://pbs.twimg.com/media/Ebsdc-MXQAATs50?format=jpg&name=4096x4096](https://pbs.twimg.com/media/Ebsdc-MXQAATs50?format=jpg&name=4096x4096)
+- [Online peticija](https://www.ipetitions.com/petition/besplatniudzbenici)
 
-Online peticija
-
-[https://www.ipetitions.com/petition/besplatniudzbenici](https://www.ipetitions.com/petition/besplatniudzbenici)
-
-Doniraj
-
-[https://fondacijaalekkavcic.org/doniraj/](https://fondacijaalekkavcic.org/doniraj/)
+- [Doniraj](https://fondacijaalekkavcic.org/doniraj/)
 
   
 # Pitanja za Vas
 
 
--   Šta dodati na sajt?
+-   [Šta dodati na sajt?](https://forms.gle/RP6WoG53Ys4sxmNZ8)
     
--   Kako popraviti obrazovanje u Srbiji?
+-   [Kako popraviti obrazovanje u Srbiji?](https://forms.gle/D7QpDCbfCewGhxM98)

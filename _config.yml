@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+locale: "en-US"
+title: "" 
+description: "" 
+show_downloads: "true"
+github: [metadata]
+exclude:
+  - CNAME
+plugins:
+    - jekyll-seo-tag

@@ -3,17 +3,59 @@
   <head>
     <title>Hoćemo besplatne udžbenike!</title>
     <style>
-      h1 {
+      h1, h2 {
         font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-weight: 800;
-        line-height: 1.1;
+        text-align: center;
+        font-weight: normal;
+        margin: 48px 0 16px;
+        border-bottom: solid 1px #eaecef;
+        padding-bottom: 0.3em;
+        line-height: 1.25;
       }
+      p {
+        margin: 0;
+      }
+      body {
+        margin: 0;
+        font-family: 'Open Sans',Helvetica,sans-serif;
+        font-size: 14px;
+        line-height: 23px;
+        padding-bottom: 38px;
+      }
+      .content {
+        max-width: 980px;
+        margin: auto;
+      }
+      .main-text {
+         max-width: 90%;
+         margin: 0 auto;
+         border-top: 6px solid #e1e1e1;
+      }
+      #table1 {
+          border-collapse: separate;
+          border-spacing: 0px 8px;
+        }
+      #wrapper {
+            height:100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            border: 0;
+            border-collapse: collapse;
+        }
+      #wrapper td {
+            vertical-align: middle;
+            text-align: center;
+            border: none;
+        }
     </style>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
-    <main id="content" class="main-content" role="main">
+    <div class="content"><div class="main-text">
       {{ content }}
-    </main>
+    </div></div>
   </body>
 </html>

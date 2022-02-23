@@ -1,42 +1,34 @@
 # Besplatni udžbenici
 
-Srbija je jedna od retnih država koje nemaju besplatne udžbenike za osnovnu školu. Roditelji plaćaju udžbenike po visokim cenama i do 15,000 dinara. Naš cilj je da obezbedimo besplatne udzbenike za osnovne škole. Ova stranica je napravljena da ponudi korisne informacije za škole, nastavnike, roditelje, učenike i sve zainteresovane. 
+Srbija je jedna od retkih država koje nemaju besplatne udžbenike za osnovnu školu. Roditelji plaćaju udžbenike po visokim cenama i do 15 000 dinara na godišnjem nivou. Naš cilj je da obezbedimo besplatne udzbenike za osnovne škole. Ova stranica je napravljena da ponudi korisne informacije za škole, nastavnike, roditelje, učenike i sve zainteresovane. 
 
 Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 1. Besplani digitalni format kome mozete pristupiti na [www.besplatnabiblioteka.com](www.besplatnabiblioteka.com)
-2. Besplatne štampane knjige Zavod za udžbenike i nastavna sredstva
+2. Besplatne štampane knjige Zavoda za udžbenike i nastavna sredstva
 3. Udžbenike od izdavača saradnika po ceni od 2 dinara po stranici
 
 # Resursi za škole i roditelje
 
 <table id="table1">
   <tr><td>
-     <a href="https://www.besplatnabiblioteka.com/">Besplatna biblioteka</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://www.digitalniudzbenik.com/">Besplatni digitalni udžbenici</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://naruci.fondacijaalekkavcic.org/">Online prodavnica za naručivanje udžbenika</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://www.besplatnabiblioteka.com/knjige/Spisak-udzbenika-Fondacija-Alek-Kavcic.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://twitter.com/FondacijaAK/status/1364968116736950273/photo/1">Česta pitanja i odgovori</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://pbs.twimg.com/media/FHN-X3cWYAsW5nM?format=jpg&name=4096x4096">Dopis školama</a>
-  </td></tr>
-  <tr><td>
-   <a href="https://mpn.gov.rs/prosveta/udzbenici/udzbenici-za-osnovnu-skolu/">Lista odobrenih udžbenika na stranici Ministarstva</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://twitter.com/FondacijaAK/status/1361888953763160069/photo/1">Plakat za besplatne udžbenike</a>
-  </td></tr>
-  <tr><td>
-     <a href="https://twitter.com/FondacijaAK/status/1364014432968351746/photo/1">Primer pisma za pokretanje inicijative u skoli</a>
+   <a href="https://www.besplatnabiblioteka.com/">Besplatna biblioteka</a>
+  </td></tr><tr><td>
+   <a href="https://www.digitalniudzbenik.com/">Besplatni digitalni udžbenici</a>
+  </td></tr><tr><td>
+   <a href="https://naruci.fondacijaalekkavcic.org/">Online prodavnica za naručivanje udžbenika</a>
+  </td></tr><tr><td>
+   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak-udzbenika-Fondacija-Alek-Kavcic.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
+  </td></tr><tr><td>
+   <a href="https://twitter.com/FondacijaAK/status/1364968116736950273/photo/1">Česta pitanja i odgovori</a>
+  </td></tr><tr><td>
+   <a href="https://pbs.twimg.com/media/FHN-X3cWYAsW5nM?format=jpg&name=4096x4096">Dopis školama</a>
+  </td></tr><tr><td>
+   <a href="https://mpn.gov.rs/prosveta/udzbenici/udzbenici-za-osnovnu-skolu/">Lista odobrenih udžbenika na stranici Ministarstva prosvete, nauke i tehnološkog razvoja</a>
+  </td></tr><tr><td>
+   <a href="https://twitter.com/FondacijaAK/status/1361888953763160069/photo/1">Plakat za besplatne udžbenike</a>
+  </td></tr><tr><td>
+   <a href="https://twitter.com/FondacijaAK/status/1364014432968351746/photo/1">Primer pisma za pokretanje inicijative u skoli</a>
   </td></tr>
 </table>
 
@@ -56,7 +48,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 # Video materijal
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table id="table1">
   <tr>
    <td style="width:33%;">Udžbenički kartel mini dokumentarac</td>
    <td style="width:33%;">Serbia's Education Sold to Germany? [engleski, english]</td>
@@ -72,16 +64,6 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </tr>
 </table>
 
-# Zvanične stranice fondacije Kavčić
-
-<table id="table1" style="font-size:30px">
-  <tr height="80px">
-   <td style="width:25%; background: #606c71;"><a href="https://fondacijaalekkavcic.org" style="color: white;"  class="fa fa-home"></a></td>
-   <td style="width:25%; background: #3B5998;"><a href="https://www.facebook.com/fondacijaalekkavcic" style="color: white;" class="fa fa-facebook"></a></td>
-   <td style="width:25%; background: #55ACEE;"><a href="https://twitter.com/FondacijaAK" style="color: white;" class="fa fa-twitter"></a></td>
-   <td style="width:25%; background: #125688;"><a href="https://www.instagram.com/fondacijaalekkavcic/" style="color: white;" class="fa fa-instagram"></a></td>
-  </tr>
-</table>
 
 # Grupe roditelja
 
@@ -93,20 +75,12 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   
 # TV emisije sa profesorom Kavčićem 
 
-## 2022
-
 <table id="table1">
   <tr><td>
-   <a href="https://www.youtube.com/watch?v=vEPnGXMaCZ4"> Bez Ustručavanja (jun 2021) </a>
+   <a href="https://www.youtube.com/watch?v=KERhrfjQNHQ">Persona non grata (feb 2022) </a>
   </td></tr><tr><td>
-   <a href="https://www.youtube.com/watch?v=RMbxsWN3O0E"> Glas javnosti (april 2021) </a>
-  </td></tr>
-</table>
-
-## 2021
-
-<table id="table1">
-  <tr><td>
+   <a href="https://www.youtube.com/watch?v=RMbxsWN3O0E">Još podkast jedan (feb 2022) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=vEPnGXMaCZ4"> Bez Ustručavanja (jun 2021) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=RMbxsWN3O0E"> Glas javnosti (april 2021) </a>
@@ -132,18 +106,12 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
    <a href="https://media.rtv.rs/sr_ci/pravi-ugao/61865"> Pravi Ugao (jan 2021) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=cPj9m10yMJ4">N1 Pressing (jan 2021)</a>
-  </td></tr>
-</table>
-
-## 2020
-
-<table id="table1">
-  <tr><td>
-<a href="https://www.youtube.com/watch?v=4o-uRkPom4w"> RTS Oko (dec 2020) </a>
   </td></tr><tr><td>
-<a href="https://www.youtube.com/watch?v=QLrzHMRIcdM"> Mario Zna (nov 2020) </a>
+   <a href="https://www.youtube.com/watch?v=4o-uRkPom4w"> RTS Oko (dec 2020) </a>
   </td></tr><tr><td>
-<a href="https://www.youtube.com/watch?v=cX3iCMGRAyw"> Prosveta ima reč (dec 2020) </a>
+   <a href="https://www.youtube.com/watch?v=QLrzHMRIcdM"> Mario Zna (nov 2020) </a>
+  </td></tr><tr><td>
+   <a href="https://www.youtube.com/watch?v=cX3iCMGRAyw"> Prosveta ima reč (dec 2020) </a>
   </td></tr>
 </table>
 
@@ -161,6 +129,8 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 <a href="https://twitter.com/i/spaces/1yNGaYwQvBRGj?s=20 "> Twitter Space: Uloga ministarstva i prosvetnih radnika </a>
   </td></tr><tr><td>
 <a href="https://soundcloud.com/wwwsuboticacom/tribina-na-temu-besplatnih-udzbenika-fondacija-alek-kavcic "> Tribina u Subotici </a>
+  </td></tr><tr><td>
+<a href="https://www.youtube.com/watch?v=XUgSr3gStrM">Tribina u Starčevu</a>
   </td></tr>
 </table>
 
@@ -185,6 +155,17 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
 <a href="https://forms.gle/D7QpDCbfCewGhxM98">Kako popraviti obrazovanje u Srbiji?</a>
   </td></tr>
+</table>
+
+# Zvanične stranice fondacije Kavčić
+
+<table id="table1" style="font-size:30px">
+  <tr>
+   <td style="width:25%; background: #606c71;"><a href="https://fondacijaalekkavcic.org" style="color: white;"  class="fa fa-home"></a></td>
+   <td style="width:25%; background: #3B5998;"><a href="https://www.facebook.com/fondacijaalekkavcic" style="color: white;" class="fa fa-facebook"></a></td>
+   <td style="width:25%; background: #55ACEE;"><a href="https://twitter.com/FondacijaAK" style="color: white;" class="fa fa-twitter"></a></td>
+   <td style="width:25%; background: #125688;"><a href="https://www.instagram.com/fondacijaalekkavcic/" style="color: white;" class="fa fa-instagram"></a></td>
+  </tr>
 </table>
 
 <br>

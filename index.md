@@ -1,6 +1,6 @@
 # Besplatni udžbenici
 
-Srbija je jedna od retkih država koje nemaju besplatne udžbenike za osnovnu školu. Roditelji plaćaju udžbenike po visokim cenama i do 15 000 dinara na godišnjem nivou. Naš cilj je da obezbedimo besplatne udzbenike za osnovne škole. Ova stranica je napravljena da ponudi korisne informacije za škole, nastavnike, roditelje, učenike i sve zainteresovane. 
+Srbija je jedna od retkih država koje nemaju besplatne udžbenike za osnovnu školu. Roditelji plaćaju udžbenike po visokim cenama i do 22.500,00 dinara za više razrede na godišnjem nivou. Naš cilj je da obezbedimo besplatne udzbenike za osnovne škole. Ova stranica je napravljena da ponudi korisne informacije za škole, nastavnike, roditelje, učenike i sve zainteresovane. 
 
 Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
@@ -156,6 +156,10 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 <a href="https://forms.gle/D7QpDCbfCewGhxM98">Kako popraviti obrazovanje u Srbiji?</a>
   </td></tr>
 </table>
+
+# Inicijativa za besplatno obrazovanje
+
+Inicijativa za besplatno obrazovanje je udruženje roditelja, nastavnika i ljudi dobre volje, osnovana sa namerom da okupi, informiše i organizuje roditelje i nastavnike, pruži im savetodavnu, pravnu i logističku podršku u ostvarivanju prava na besplatne udžbenike. Inicijativa deluje autonomno u okviru [narodni.rs](www.narodni.rs) i svi zainteresovani građani se, za svaku vrstu podrške i pomoći mogu javiti na <a href = "mailto: office@narodni.rs">e-mail</a> i telefone: <a href="tel:0604236114">Njegoš Petrović: 0604236114</a>, <a href="tel:0604613313">Slađana Stojanović: 0604613313</a>.
 
 # Zvanične stranice fondacije Kavčić
 

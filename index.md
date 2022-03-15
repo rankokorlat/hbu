@@ -77,6 +77,8 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
+   <a href="https://www.youtube.com/watch?v=Y8_SK8cy_2Q">Južne vesti (mart 2022) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=KERhrfjQNHQ">Persona non grata (feb 2022) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=RMbxsWN3O0E">Još podkast jedan (feb 2022) </a>
@@ -109,9 +111,9 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=4o-uRkPom4w"> RTS Oko (dec 2020) </a>
   </td></tr><tr><td>
-   <a href="https://www.youtube.com/watch?v=QLrzHMRIcdM"> Mario Zna (nov 2020) </a>
-  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=cX3iCMGRAyw"> Prosveta ima reč (dec 2020) </a>
+  </td></tr><tr><td>
+   <a href="https://www.youtube.com/watch?v=QLrzHMRIcdM"> Mario Zna (nov 2020) </a>
   </td></tr>
 </table>
 

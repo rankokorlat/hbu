@@ -124,12 +124,6 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   <tr><td>
 <a href="https://dis.org.rs/sr/2021/03/izvestaj-sa-vebinara-besplatni-udzbenici-za-i-protiv/ "> Webinar društva za informatiku Srbije </a>
   </td></tr><tr><td>
-<a href="https://twitter.com/i/spaces/1jMKgeMLRwMJL?s=20 "> Twitter Space: Kako ostvariti pravo na besplatne udzbenike </a>
-  </td></tr><tr><td>
-<a href="https://twitter.com/i/spaces/1MYxNnNbglXxw?s=20 "> Twitter Space: Dobročinstvo </a>
-  </td></tr><tr><td>
-<a href="https://twitter.com/i/spaces/1yNGaYwQvBRGj?s=20 "> Twitter Space: Uloga ministarstva i prosvetnih radnika </a>
-  </td></tr><tr><td>
 <a href="https://soundcloud.com/wwwsuboticacom/tribina-na-temu-besplatnih-udzbenika-fondacija-alek-kavcic "> Tribina u Subotici </a>
   </td></tr><tr><td>
 <a href="https://www.youtube.com/watch?v=XUgSr3gStrM">Tribina u Starčevu</a>
@@ -161,7 +155,10 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 # Inicijativa za besplatno obrazovanje
 
-Inicijativa za besplatno obrazovanje je udruženje roditelja, nastavnika i ljudi dobre volje, osnovana sa namerom da okupi, informiše i organizuje roditelje i nastavnike, pruži im savetodavnu, pravnu i logističku podršku u ostvarivanju prava na besplatne udžbenike. Inicijativa deluje autonomno u okviru [narodni.rs](www.narodni.rs) i svi zainteresovani građani se, za svaku vrstu podrške i pomoći mogu javiti na <a href = "mailto: office@narodni.rs">e-mail</a> i telefone: <a href="tel:0604236114">Njegoš Petrović: 0604236114</a>, <a href="tel:0604613313">Slađana Stojanović: 0604613313</a>.
+Inicijativa za besplatno obrazovanje je udruženje roditelja, nastavnika i ljudi dobre volje, osnovana sa namerom da okupi, informiše i organizuje roditelje i nastavnike, pruži im savetodavnu, pravnu i logističku podršku u ostvarivanju prava na besplatne udžbenike. Inicijativa deluje autonomno u okviru [narodni.rs](www.narodni.rs) i svi zainteresovani građani se, za svaku vrstu podrške i pomoći mogu javiti na <a href = "mailto: office@narodni.rs">e-mail</a> i telefone: 
+
+- <a href="tel:0604236114">Njegoš Petrović: 0604236114</a> i 
+- <a href="tel:0604613313">Slađana Stojanović: 0604613313</a>.
 
 # Zvanične stranice fondacije Kavčić
 

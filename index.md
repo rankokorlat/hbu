@@ -69,7 +69,9 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
-   <a href="https://www.facebook.com/groups/966991017583922">Facebook</a>
+   <a href="https://www.facebook.com/groups/966991017583922">Ujedinjeni roditelji na Facebooku</a>
+  </td></tr><tr><td>
+   <a href="https://www.facebook.com/groups/538632510819966/">Besplatni udžbenici Kragujevac</a>
   </td></tr>
 </table>
   
@@ -77,6 +79,8 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
+   <a href="https://www.youtube.com/watch?v=zxaFoprfh8g">Podkast DLZ (mart 2022) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=Y8_SK8cy_2Q">Južne vesti (mart 2022) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=KERhrfjQNHQ">Persona non grata (feb 2022) </a>
@@ -91,7 +95,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=KXMHT296ubo"> Govornica (april 2021) </a>
   </td></tr><tr><td>
-   <a href=" https://www.youtube.com/watch?v=ymOLJ4vdiTQ"> Medju Nama (mart 2021) </a>
+   <a href="https://www.youtube.com/watch?v=ymOLJ4vdiTQ"> Medju Nama (mart 2021) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=_NJ1YOVfzE4"> Utisak Nedelje (mart 2021) </a>
   </td></tr><tr><td>
@@ -118,15 +122,17 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 </table>
 
  
-# Javne diskusije i tribine
+# Javne diskusije, tribine i konferencije
 
 <table id="table1">
   <tr><td>
-<a href="https://dis.org.rs/sr/2021/03/izvestaj-sa-vebinara-besplatni-udzbenici-za-i-protiv/ "> Webinar društva za informatiku Srbije </a>
+<a href="https://dis.org.rs/sr/2021/03/izvestaj-sa-vebinara-besplatni-udzbenici-za-i-protiv/"> Webinar društva za informatiku Srbije </a>
   </td></tr><tr><td>
 <a href="https://soundcloud.com/wwwsuboticacom/tribina-na-temu-besplatnih-udzbenika-fondacija-alek-kavcic "> Tribina u Subotici </a>
   </td></tr><tr><td>
 <a href="https://www.youtube.com/watch?v=XUgSr3gStrM">Tribina u Starčevu</a>
+  </td></tr><tr><td>
+<a href="https://www.youtube.com/watch?v=jgU89jk1YJk&t=22756s">BIZIT 2021 konferencija</a>
   </td></tr>
 </table>
 

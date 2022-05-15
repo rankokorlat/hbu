@@ -51,10 +51,10 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 <table id="table1">
   <tr>
    <td style="width:33%;">Udžbenički kartel mini dokumentarac</td>
-   <td style="width:33%;">Serbia's Education Sold to Germany? [engleski, english]</td>
+   <td style="width:33%;">Besplatni udžbenici</td>
   </tr><tr>
    <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/embed/_GNXB22MS6M"></iframe></td>
-   <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/embed/HrYOQ2AFMH0"></iframe></td>
+   <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/watch?v=wlxXpn2Ntjw"></iframe></td>
   </tr><tr>
    <td style="width:33%;">Besplatni udžbenici u Smederevskoj Palanci</td>
    <td style="width:33%;">Borba roditelja OŠ “Oslobodioci Beograda”</td>

@@ -79,6 +79,10 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
+   <a href="https://www.youtube.com/watch?v=3i5sYeEGMD8">Emisija Kafe Promaja (jul 2022) </a>
+  </td></tr><tr><td>
+   <a href="https://www.youtube.com/watch?v=_hqaNrNpiPA">Vesti TV Forum (jul 2022) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=zxaFoprfh8g">Podkast DLZ (mart 2022) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=Y8_SK8cy_2Q">Južne vesti (mart 2022) </a>

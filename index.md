@@ -79,6 +79,8 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
+   <a href="https://www.youtube.com/watch?v=zndAuZmM8Qw">Emisija Između redova (jul 2022) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=3i5sYeEGMD8">Emisija Kafe Promaja (jul 2022) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=_hqaNrNpiPA">Vesti TV Forum (jul 2022) </a>

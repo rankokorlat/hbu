@@ -79,6 +79,10 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
+   <a href="https://www.youtube.com/watch?v=Go64B_Ddy8w">Pregled dana Newsmax Adria (sept 2022) </a>
+  </td></tr><tr><td>
+   <a href="https://www.youtube.com/watch?v=FziWiid9kc4">N1 (sept 2022) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=zndAuZmM8Qw">Emisija Između redova (jul 2022) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=3i5sYeEGMD8">Emisija Kafe Promaja (jul 2022) </a>

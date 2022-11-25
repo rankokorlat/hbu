@@ -67,9 +67,11 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 # Grupe roditelja
 
-<table id="table1">
+<table id="table1">  
   <tr><td>
    <a href="https://www.facebook.com/groups/966991017583922">Ujedinjeni roditelji na Facebooku</a>
+  </td></tr><tr><td>
+   <a href="https://www.facebook.com/torikragujevac">Stranica za roditelje i nastavnike KG</a>
   </td></tr><tr><td>
    <a href="https://www.facebook.com/groups/538632510819966/">Besplatni udžbenici Kragujevac</a>
   </td></tr>

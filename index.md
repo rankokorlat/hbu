@@ -76,6 +76,44 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
    <a href="https://www.facebook.com/groups/538632510819966/">Besplatni udžbenici Kragujevac</a>
   </td></tr>
 </table>
+
+# Iskustva, utisci i podrška
+
+<table id="table1">
+  <tr>
+   <td style="width:33%;">
+     Fondaciju podržavam jer se bavi jednim od najvažnijih pitanja: pitanjem opstanka naše dece, a to je jedino moguće kroz obrazovanje. Besplatno obrazovanje za svu decu predviđeno je Ustavom, to, pored ostalog podrazumeva i besplatne udžbenike. Koristimo za svoju decu udžbenike sa sajta, i iskustva su sjajna: kvalitetan udžbenik na dohvat ruke. Ove udžbenike treba izabrati jer su besplatni online (ni jedan izdavač to ne nudi) i najpovoljniji su u štampanom obliku. Poruka roditeljima i školama: Ne dozvolimo dalje urušavanje obrazovanja, obrazovanje mora biti besplatno i založimo se svi za ovaj plemenit cilj.<br><i>~ Mirjana Radovanović</i></td>
+    </td>
+    <td style="width:33%;">
+      Podržavam fondaciju Alek Kavčić zato što sam preko nje saznao za zabrinjavajuće trendove u izdavanju udžbenika i nepotrebnog ograničavanja opcija roditelja u mnogim školama u Srbiji, kao i načine na koje se fondacija protiv toga bori. Smatram da je proces nabavljanja udžbenika postao skuplji i komplikovaniji za mnoge radi profita izdavača, a ne zbog kvaliteta udžbenika ili standardizacije nastave. Deca u Srbiji zaslužuju pristup besplatnim udžbenicima!<br><i>~ Igor</i>
+</tr><tr>
+   <td style="width:33%;">
+     U Srbiji je sve postalo preskupo, a obrazovanje nikako ne bi smelo zbog toga da ispašta. Obrazovani ljudi su budućnost ove zemlje. Oni su ti koji će ovu zemlju jednog dana učiniti ekonomski snažnom. Tako da je ova inicijativa u interesu svih nas.<br><i>~ Aleksandar Sarić</i>
+</td>
+   <td style="width:33%;">
+     Podržavam svaku inicijativu koja se bori za pravednost i osnovna prava propisana zakonom! Odeljenje u kome sam učitelj, od ove godine koristi udžbenike Fondacije. Udžbenici prate plan i program, sadržaj je prilagođen uzrastu dece, ilustracije podstiču na rad i učenje, ima dovoljno materijala za samostalan rad. Udžbenike treba izabrati, pored toga što mogu biti besplatni (u elektronskoj verziji) ili višestruko jeftiniji (u štampanoj verziji) od udžbenika drugih izdavača. Izabrati udžbenike koji su besplatni ili višestruko jeftiniji, kvalitetni, uštedeti porodični, opštinski i državni budžet! <br><i>~ Dejan Petrović</i>
+</td>
+  </tr><tr>
+   <td style="width:33%;">
+     Odeljenje mog sina jedino u celoj školi koristi ove udžbenike. Iskustva učitelja i dece su odlična. Kvalitet gradiva je potpuno isti, ako ne i bolji, od udžbenika koje koriste druga deca. Ove udžbenike treba koristiti jer je po ustavu zagarantovano besplatno školovanje, a trenutno su udžbenici često veliko finansijsko opterećenje za porodicu. Ne vidim razlog da se ne koriste, osim da favorizovanje nekih izdavaca nije uzrokovano internim dogovorima u cilju zarade. <br><i>~ Jasmina</i>
+</td>
+   <td style="width:33%;">
+     Fondacija Alek Kavčić je ušla u tešku borbu za spas prosvete u Srbiji i zaštite interesa roditelja i učenika od izdavačkog kartela. Iako nemam decu u osnovnoj školi, smatram svojom obavezom da pomognem Fondaciji u toj borbi.<br><i>~ Njegoš Petrović</i>
+</td>
+  </tr><tr>
+   <td style="width:33%;">
+     Udžbenici fondacije Alek Kavčić su jeftini, kvalitetni i bolji od mnogih drugih izdavača.<br><i>~ Ivana</i></td>
+   <td style="width:33%;">
+     U potpunosti podrzavam ideju besplatnih ucenika kao veliku pomoć roditeljima.<br><i>~ Anonimno</i></td>
+  </tr><tr>
+   <td style="width:33%;">
+     Udžbenici su odlični. Nema razloga za basnoslovnim plaćanjem udžbenika koji su često lošiji od besplatnih udžbenika. Udžbenici su sasvim dobri za decu, čak često bolji od udžbenika koje nerazumljivo puno plaćamo.<br><i>~ Anonimno</i></td>
+</td>
+   <td style="width:33%;">
+  Podržavam viši cilj za opšte dobro. Moja deca jedina koriste udzbenike fondacije Alek Kavčić. Treba ih izabrati jer su kvalitetni, a jeftini, i svima to objašnjavam.<br><i>~ Danica</i>
+</td>
+  </tr>
+</table>
   
 # TV emisije sa profesorom Kavčićem 
 
@@ -165,7 +203,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
-<a href="https://forms.gle/RP6WoG53Ys4sxmNZ8">Šta dodati na sajt?</a>
+<a href="https://forms.gle/RP6WoG53Ys4sxmNZ8">Zašto podržavate Fondaciju i šta dodati na sajt?</a>
   </td></tr><tr><td>
 <a href="https://forms.gle/D7QpDCbfCewGhxM98">Kako popraviti obrazovanje u Srbiji?</a>
   </td></tr>

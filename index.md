@@ -4,7 +4,7 @@ Srbija je jedna od retkih država koje nemaju besplatne udžbenike za osnovnu š
 
 Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
-1. Besplatni digitalni format kome mozete pristupiti na [www.besplatnabiblioteka.com](www.besplatnabiblioteka.com)
+1. Besplatni digitalni format kome mozete pristupiti na [https://www.besplatnabiblioteka.com/](www.besplatnabiblioteka.com)
 2. Besplatne štampane knjige Zavoda za udžbenike i nastavna sredstva
 3. Udžbenike od izdavača saradnika po ceni od 2 dinara po stranici
 

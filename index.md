@@ -82,10 +82,11 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 <table id="table1">
   <tr>
    <td style="width:33%;">
-     Fondaciju podržavam jer se bavi jednim od najvažnijih pitanja: pitanjem opstanka naše dece, a to je jedino moguće kroz obrazovanje. Besplatno obrazovanje za svu decu predviđeno je Ustavom, to, pored ostalog podrazumeva i besplatne udžbenike. Koristimo za svoju decu udžbenike sa sajta, i iskustva su sjajna: kvalitetan udžbenik na dohvat ruke. Ove udžbenike treba izabrati jer su besplatni online (ni jedan izdavač to ne nudi) i najpovoljniji su u štampanom obliku. Poruka roditeljima i školama: Ne dozvolimo dalje urušavanje obrazovanja, obrazovanje mora biti besplatno i založimo se svi za ovaj plemenit cilj.<br><i>~ Mirjana Radovanović</i></td>
+     Fondaciju podržavam jer se bavi jednim od najvažnijih pitanja: pitanjem opstanka naše dece, a to je jedino moguće kroz obrazovanje. Besplatno obrazovanje za svu decu predviđeno je Ustavom, to, pored ostalog podrazumeva i besplatne udžbenike. Koristimo za svoju decu udžbenike sa sajta, i iskustva su sjajna: kvalitetan udžbenik na dohvat ruke. Ove udžbenike treba izabrati jer su besplatni online (ni jedan izdavač to ne nudi) i najpovoljniji su u štampanom obliku. Poruka roditeljima i školama: Ne dozvolimo dalje urušavanje obrazovanja, obrazovanje mora biti besplatno i založimo se svi za ovaj plemenit cilj.<br><i>~ Mirjana Radovanović</i>
     </td>
     <td style="width:33%;">
       Podržavam fondaciju Alek Kavčić zato što sam preko nje saznao za zabrinjavajuće trendove u izdavanju udžbenika i nepotrebnog ograničavanja opcija roditelja u mnogim školama u Srbiji, kao i načine na koje se fondacija protiv toga bori. Smatram da je proces nabavljanja udžbenika postao skuplji i komplikovaniji za mnoge radi profita izdavača, a ne zbog kvaliteta udžbenika ili standardizacije nastave. Deca u Srbiji zaslužuju pristup besplatnim udžbenicima!<br><i>~ Igor</i>
+      </td>
 </tr><tr>
    <td style="width:33%;">
      U Srbiji je sve postalo preskupo, a obrazovanje nikako ne bi smelo zbog toga da ispašta. Obrazovani ljudi su budućnost ove zemlje. Oni su ti koji će ovu zemlju jednog dana učiniti ekonomski snažnom. Tako da je ova inicijativa u interesu svih nas.<br><i>~ Aleksandar Sarić</i>

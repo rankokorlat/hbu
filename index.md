@@ -109,7 +109,6 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </tr><tr>
    <td style="width:33%;">
      Udžbenici su odlični. Nema razloga za basnoslovnim plaćanjem udžbenika koji su često lošiji od besplatnih udžbenika. Udžbenici su sasvim dobri za decu, čak često bolji od udžbenika koje nerazumljivo puno plaćamo.<br><i>~ Anonimno</i></td>
-</td>
    <td style="width:33%;">
   Podržavam viši cilj za opšte dobro. Moja deca jedina koriste udzbenike fondacije Alek Kavčić. Treba ih izabrati jer su kvalitetni, a jeftini, i svima to objašnjavam.<br><i>~ Danica</i>
 </td>

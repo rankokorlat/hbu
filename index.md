@@ -113,6 +113,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
    <tr>
       <td style="width:50%;">
          Podržavam fondaciju Alek Kavčić zato što sam preko nje saznao za zabrinjavajuće trendove u izdavanju udžbenika i nepotrebnog ograničavanja opcija roditelja u mnogim školama u Srbiji, kao i načine na koje se fondacija protiv toga bori. Smatram da je proces nabavljanja udžbenika postao skuplji i komplikovaniji za mnoge radi profita izdavača, a ne zbog kvaliteta udžbenika ili standardizacije nastave. Deca u Srbiji zaslužuju pristup besplatnim udžbenicima!<br><i>~ Igor</i>
+      </td>
       <td style="width:50%;">
          U potpunosti podržavam ideju besplatnih udžbenika kao veliku pomoć roditeljima.<br><i>~ Anonimno</i>
       </td>

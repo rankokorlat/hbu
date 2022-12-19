@@ -61,6 +61,12 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </tr><tr>
    <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/embed/hQ_8pnr2WUg"></iframe></td>
    <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/embed/4Qp3hLnBllA"></iframe></td>
+  </tr><tr>
+   <td style="width:33%;">Besplatni udžbenici u Šidu</td>
+   <td style="width:33%;">Pobeda besplatnih udžbenika</td>
+  </tr><tr>
+   <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/embed/h_UaoDBSxok"></iframe></td>
+   <td style="width:33%;"><iframe width="100%" src="https://www.youtube.com/embed/j4jcdAiCf6U"></iframe></td>
   </tr>
 </table>
 
@@ -112,9 +118,32 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
    <td style="width:50%;">
   Podržavam viši cilj za opšte dobro. Moja deca jedina koriste udžbenike fondacije Alek Kavčić. Treba ih izabrati jer su kvalitetni, a jeftini, i svima to objašnjavam.<br><i>~ Danica</i>
 </td>
+  </tr><tr>
+   <td style="width:50%;">
+     Udžbenici fondacije u svim aspektima zadovoljavaju standarde i štampe i sadržaja što je zaključilo ministarstvo, te su i uvrstili udžbenike u priručnik, i to sve po tri, četiri puta nižoj ceni.<br><i>~ Jelenko</i></td>
+   <td style="width:50%;">
+     Škola moje dece ne koristi te udžbenike jer nastavnici ne žele. Po mom mišljenju njihovi razlozi su neopravdani.<br><i>~ Peđa</i></td>
+  </tr><tr>
+   <td style="width:50%;">
+    Podržavam fondaciju Alek Kavčić zato što svako dete treba da ima pravo na besplatne udžbenike.<br><i>~ Mirka</i></td> 
+   <td style="width:50%;">
+    Podržavam fondaciju jer smatram da je obrazovanje izuzetno važno i mora biti dostupno svima. Jedan od načina da se dopre do svih jeste da udžbenici za osnovne škole budu besplatni. Tada se razbija monopolistički položaj koji drže sadašnji izdavači i podstiče se fer i konkuretna atmosfera u kojoj je kvalitet sadržaja obrazovanja primarni cilj.<br><i>~ Daniel</i>
+</td>
+  </tr><tr>
+   <td style="width:50%;">
+     Podržati sve što ima logike i što nije nešto što se nameće, a ujedno je dokazano korisno (pogotovo za našu decu). Naša škola, koliko ja znam, nije koristila besplatne udžbenike... ali bih lično voleo da koristi.<br><i>~ Anonimno</i></td>
+   <td style="width:50%;">
+     Podržavam fondaciju zato što verujem da sva deca treba da imaju pravo na besplatne ili barem jeftinije knjige.<br><i>~ Anonimno</i></td>
+  </tr><tr>
+   <td style="width:50%;">
+    Podržavam fondaciju Alek Kavčić zbog realnih cena, znanja, profesionalizma.<br><i>~ Lazar</i></td> 
+   <td style="width:50%;">
+    Fondaciju podržavam jer nude iste knjige besplatno ili po mnogo nižoj ceni. Ja kao roditelj troje dece smatram da svim silama treba da se borimo za ove udžbenike.<br><i>~ Ana</i>
+</td>
   </tr>
 </table>
-  
+
+
 # TV emisije sa profesorom Kavčićem 
 
 <table id="table1">

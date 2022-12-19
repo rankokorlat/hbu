@@ -85,7 +85,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 # Iskustva, utisci i podrška
 
-<table cellspacing="10" cellpadding="10">
+<table id="table2">
    <tr>
       <td style="width:50%;">
          Fondaciju podržavam jer se bavi jednim od najvažnijih pitanja: pitanjem opstanka naše dece, a to je jedino moguće kroz obrazovanje. Besplatno obrazovanje za svu decu predviđeno je Ustavom, to, pored ostalog podrazumeva i besplatne udžbenike. Koristimo za svoju decu udžbenike sa sajta, i iskustva su sjajna: kvalitetan udžbenik na dohvat ruke. Ove udžbenike treba izabrati jer su besplatni online (ni jedan izdavač to ne nudi) i najpovoljniji su u štampanom obliku. Poruka roditeljima i školama: Ne dozvolimo dalje urušavanje obrazovanja, obrazovanje mora biti besplatno i založimo se svi za ovaj plemenit cilj.<br><i>~ Mirjana Radovanović</i>

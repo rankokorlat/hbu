@@ -87,82 +87,115 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table2">
    <tr>
-      <td style="width:50%;">
+      <td>
          Fondaciju podržavam jer se bavi jednim od najvažnijih pitanja: pitanjem opstanka naše dece, a to je jedino moguće kroz obrazovanje. Besplatno obrazovanje za svu decu predviđeno je Ustavom, to, pored ostalog podrazumeva i besplatne udžbenike. Koristimo za svoju decu udžbenike sa sajta, i iskustva su sjajna: kvalitetan udžbenik na dohvat ruke. Ove udžbenike treba izabrati jer su besplatni online (ni jedan izdavač to ne nudi) i najpovoljniji su u štampanom obliku. Poruka roditeljima i školama: Ne dozvolimo dalje urušavanje obrazovanja, obrazovanje mora biti besplatno i založimo se svi za ovaj plemenit cilj.<br><i>~ Mirjana Radovanović</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Podržavam Fondaciju zato što je stala na put pljačkanju roditelja u Srbiji, i pokušava da prekine korupciju u školama. Od pet škola u opštini, četiri koriste udžbenike Fondacije, udžbenici su jednakog kvaliteta kao i drugih izdavača ali su 10 puta jeftiniji. Roditeljima drugih gradova i škola bih poručila, da se organizuju preko Saveta roditelja, da nije nemoguće, i da ne odustaju.<br><i>~ Slađana Stojanović</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          U Srbiji je sve postalo preskupo, a obrazovanje nikako ne bi smelo zbog toga da ispašta. Obrazovani ljudi su budućnost ove zemlje. Oni su ti koji će ovu zemlju jednog dana učiniti ekonomski snažnom. Tako da je ova inicijativa u interesu svih nas.<br><i>~ Aleksandar Sarić</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Podržavam svaku inicijativu koja se bori za pravednost i osnovna prava propisana zakonom! Odeljenje u kome sam učitelj, od ove godine koristi udžbenike Fondacije. Udžbenici prate plan i program, sadržaj je prilagođen uzrastu dece, ilustracije podstiču na rad i učenje, ima dovoljno materijala za samostalan rad. Udžbenike treba izabrati, pored toga što mogu biti besplatni (u elektronskoj verziji) ili višestruko jeftiniji (u štampanoj verziji) od udžbenika drugih izdavača. Izabrati udžbenike koji su besplatni ili višestruko jeftiniji, kvalitetni, uštedeti porodični, opštinski i državni budžet! <br><i>~ Dejan Petrović</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Fondacija Alek Kavčić je ušla u tešku borbu za spas prosvete u Srbiji i zaštite interesa roditelja i učenika od izdavačkog kartela. Iako nemam decu u osnovnoj školi, smatram svojom obavezom da pomognem Fondaciji u toj borbi.<br><i>~ Njegoš Petrović</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Odeljenje mog sina jedino u celoj školi koristi ove udžbenike. Iskustva učitelja i dece su odlična. Kvalitet gradiva je potpuno isti, ako ne i bolji, od udžbenika koje koriste druga deca. Ove udžbenike treba koristiti jer je po ustavu zagarantovano besplatno školovanje, a trenutno su udžbenici često veliko finansijsko opterećenje za porodicu. Ne vidim razlog da se ne koriste, osim da favorizovanje nekih izdavaca nije uzrokovano internim dogovorima u cilju zarade. <br><i>~ Jasmina</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Podržavam fondaciju Alek Kavčić zato što sam preko nje saznao za zabrinjavajuće trendove u izdavanju udžbenika i nepotrebnog ograničavanja opcija roditelja u mnogim školama u Srbiji, kao i načine na koje se fondacija protiv toga bori. Smatram da je proces nabavljanja udžbenika postao skuplji i komplikovaniji za mnoge radi profita izdavača, a ne zbog kvaliteta udžbenika ili standardizacije nastave. Deca u Srbiji zaslužuju pristup besplatnim udžbenicima!<br><i>~ Igor</i>
       </td>
-      <td style="width:50%;">
+      <td>
          U potpunosti podržavam ideju besplatnih udžbenika kao veliku pomoć roditeljima.<br><i>~ Anonimno</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Podržavam viši cilj za opšte dobro. Moja deca jedina koriste udžbenike fondacije Alek Kavčić. Treba ih izabrati jer su kvalitetni, a jeftini, i svima to objašnjavam.<br><i>~ Danica</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Podržavam fondaciju jer se zalaže za udžbenike koji su daleko povoljniji od onih koji se sada koriste. Škola dve godine izbegava da uzme u razmatranje udžbenike Fondacije Kavčić. Naručio sam jedan udžbenik Fondacije i uverio da se ni po čemu ne razlikuje od onih koje sada učenici koriste, a plaćen je višestruko povoljnije. Uvidom u sadržaj i autore koji rade na udžbenicima Fondacije Kavčić, smatram da kupovinom ovih udžbenika učenici ne bi bili uskraćeni za sadržaj, a porodica se ne bi izlagala nepotrebnim troškovima. <br><i>~ Ivan Stevanović</i>
+      </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Udžbenici fondacije u svim aspektima zadovoljavaju standarde i štampe i sadržaja što je zaključilo ministarstvo, te su i uvrstili udžbenike u priručnik, i to sve po tri, četiri puta nižoj ceni.<br><i>~ Jelenko</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Škola moje dece ne koristi te udžbenike jer nastavnici ne žele. Po mom mišljenju njihovi razlozi su neopravdani.<br><i>~ Peđa</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Podržavam fondaciju Alek Kavčić zato što svako dete treba da ima pravo na besplatne udžbenike.<br><i>~ Mirka</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Podržavam fondaciju jer smatram da je obrazovanje izuzetno važno i mora biti dostupno svima. Jedan od načina da se dopre do svih jeste da udžbenici za osnovne škole budu besplatni. Tada se razbija monopolistički položaj koji drže sadašnji izdavači i podstiče se fer i konkuretna atmosfera u kojoj je kvalitet sadržaja obrazovanja primarni cilj.<br><i>~ Daniel</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Podržati sve što ima logike i što nije nešto što se nameće, a ujedno je dokazano korisno (pogotovo za našu decu). Naša škola, koliko ja znam, nije koristila besplatne udžbenike... ali bih lično voleo da koristi.<br><i>~ Anonimno</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Podržavam fondaciju zato što verujem da sva deca treba da imaju pravo na besplatne ili barem jeftinije knjige.<br><i>~ Anonimno</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Udžbenici su odlični. Nema razloga za basnoslovnim plaćanjem udžbenika koji su često lošiji od besplatnih udžbenika. Udžbenici su sasvim dobri za decu, čak često bolji od udžbenika koje nerazumljivo puno plaćamo.<br><i>~ Anonimno</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Udžbenici fondacije Alek Kavčić su jeftini, kvalitetni i bolji od mnogih drugih izdavača.<br><i>~ Ivana</i>
       </td>
    </tr>
    <tr>
-      <td style="width:50%;">
+      <td>
          Podržavam fondaciju Alek Kavčić zbog realnih cena, znanja, profesionalizma.<br><i>~ Lazar</i>
       </td>
-      <td style="width:50%;">
+      <td>
          Fondaciju podržavam jer nude iste knjige besplatno ili po mnogo nižoj ceni. Ja kao roditelj troje dece smatram da svim silama treba da se borimo za ove udžbenike.<br><i>~ Ana</i>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Logična je priča u pitanju, totalno ima smisla. Udžbenici fondacije su dosta jeftiniji, a po mnogima bolji od trenutno dostupnih. Apelujem na škole da stisnu petlju i izaberu ove udžbenike. <br><i>~ Nedja</i>
+      </td>
+      <td>
+         Pravo na besplatne udžbenike je Ustavom zagarantovano, dakle najviši pravni akt naše države se otvoreno krši a da se pritom nadležne institucije apsolutno ne oglašavaju. Druga jako bitna stvar je to što su udžbenici fondacije Alek Kavčić dobili upotrebnu dozvolu od strane ministarstva obrazovanja Republike Srbije. <br><i>~ Stefan Milosavljević</i>
+      </td>
+   </tr>
+   <tr>
+      <td>
+        Podržavam korišćenje besplatnih udžbenika pre svega zbog cene i zato što su ih pisali domaći autori. Naša škola ne koristi ove udžbenike, ali se za njih treba izboriti. <br><i>~ Magdalena Dvizac</i> 
+      </td>
+      <td>
+        Podržavam fondaciju Alek Kavčić zato što su jedini koji žele da pomognu roditeljima da dođu do povoljnih, a ujedno kvalitetnih udžbenika. Udžbenici su pre svega kvalitetni, dobro napisani i lako razumljivi. Preporučila bih školama i roditeljima da se bolje informišu o pravima dece, jer je osnovno obrazovanje po zakonu naše zemlje besplatno. <br><i>~ Mira</i> 
+      </td>
+   </tr>
+   <tr>
+      <td>
+        Podržavam fondaciju Alek Kavčić zato što nesporno ima časne namere. Trenutno su udžbenici prilično skupi i predstavljaju značajan trošak za prosečnu porodicu u Srbiji. Udžbenici fondacije, čak iako su po kvalitetu u rangu sa ostalim izdavačima, su 5 puta jeftiniji od svih ostalih u Srbiji. Mislim da je fondacija zaslužila podršku roditelja i da bi roditelji trebalo da izvrše pritisak na škole da se čuje za ove udžbenike u svakoj školi u Srbiji. <br><i>~ Kovinac</i> 
+      </td>
+      <td>
+        Podržavam fondaciju Alek Kavčić jer se neko konačno bori sa nama za našu decu. <br><i>~ Anonimno</i> 
+      </td>
+   </tr>
+   <tr>
+      <td>
+        Podržavam fondaciju zato jer su knjige pristupačne. <br><i>~ Anonimno</i> 
+      </td>
+      <td>
+        Podržavam fondaciju zato što radi plemenitu stvar i zato što sam roditelj dva deteta u osnovnoj školi koji bi želeo da podrži ovakvu ideju, ali mu nažalost nije data prilika jer škola u koju moja deca idu, ne podržava ovu inicijativu. Takođe sam i nastavnica engleskog jezika i od ove školske godine prihvatila sam udžbenik fondacije i koristim ga u nastavi. Užbenik je odličan. Teme prilagođene uzrastu, podeljene na jasne celine. Radna sveska prati udžbenik. Na digitalnom udžbeniku je sav materijal i uspešno ga koristimo na časovima. Na osnovu sopstvenog iskustva poručujem roditeljima i ostalim nastavnicima da izaberu udžbenike fondacije jer će uštedeti novac ali ne na uštrb kvaliteta. <br><i>~ Anonimno</i> 
       </td>
    </tr>
 </table>

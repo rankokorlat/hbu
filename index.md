@@ -176,7 +176,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
    </tr>
    <tr>
       <td>
-         Logična je priča u pitanju, totalno ima smisla. Udžbenici fondacije su dosta jeftiniji, a po mnogima bolji od trenutno dostupnih. Apelujem na škole da stisnu petlju i izaberu ove udžbenike. <br><i>~ Nedja</i>
+         Logična je priča u pitanju, totalno ima smisla. Udžbenici fondacije su dosta jeftiniji, a po mnogima bolji od trenutno dostupnih. Apelujem na škole da stisnu petlju i izaberu ove udžbenike. <br><i>~ Neđa</i>
       </td>
       <td>
          Pravo na besplatne udžbenike je Ustavom zagarantovano, dakle najviši pravni akt naše države se otvoreno krši a da se pritom nadležne institucije apsolutno ne oglašavaju. Druga jako bitna stvar je to što su udžbenici fondacije Alek Kavčić dobili upotrebnu dozvolu od strane ministarstva obrazovanja Republike Srbije. <br><i>~ Stefan Milosavljević</i>
@@ -207,10 +207,20 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
       </td>
    </tr>
    <tr>
-      <td>
-        Podržavam fondaciju zato jer su knjige pristupačne. <br><i>~ Anonimno</i> 
-      </td>
-      <td>
+        <td>Na prvom mestu ova fondacija nam pruža ono sto bi bez plaćanja trebalo svako dete da ima - pravo na obrazovanje uz minimalne troškove, dobar, slikovit sadržaj i lepa objašnjenja. Sve pohvale za fondaciju.  <br><i>~ Tanja</i></td>
+        <td>Udžbenici fondacije Alek Kavčić su bolji od drugih a jeftiniji. <br><i>~ Vlada</i></td>
+   </tr>
+   <tr>
+        <td>Podržavam akciju, zato što bi onda deca učila po istom programu na celoj teritoriji Srbije, što bi olakšalo roditeljima koji rade za minimalac od kog pola ode za udžbenike i ostali pribor, i to ukoliko imaju samo jedno dete, a oni koji imaju više dece ne mogu ni da zamislim kako se snalaze. <br><i>~ Anita</i></td>
+        <td>Profesor Kavčić ima iskrene i jasne namere, odnosno misiju. Nisu u pitanju samo besplatni udžbenici, već podizanje prosvećenosti budućih generacija. Do sada nisam koristio udžbenike Fondacije, ali posle spoznaje profesorovog zalaganja za sveopšteg dobra svakako ću ih koristiti i pružiti punu mu podršku. <br><i>~ Anonimno</i></td>
+   </tr>
+   <tr>
+        <td>Udžbenici fondacije su sjajni. Sem olakšice za budžet, sadržaj je po planu i programu Ministarstva i nema kompromitujućeg sadržaja kao kod izdavača Klet. <br><i>~ Boba</i></td>
+        <td>Podržavam rad Fondacije zato što smatram da svaki npr. prvi razred treba da ima iste knjige jer u suštini uče isto samo malo drugačijim redom. A što se tiče knjiga, svaka škola drugacije. Program se menja na tri godine. Zašto?! Jel se nešto menja u sabiranju, množenju…? A o cenama nema potrebe ni pričati koliko su visoke. <br><i>~ Jelena A.</i></td>
+   </tr>
+   <tr>
+        <td>Aktivnosti fondacije Alek Kavčić su izuzetno korisne za društvo. Škole treba da koriste udžbenike Fondacije da bi olakšale ogromnoj većini roditelja koji nisu u zavidnoj finansijskoj situaciji kao i da bi razbili monopol jednog izdavača. Mi se trenutno nismo izborili za udžbenike. Roditelji i nastavnici treba da znaju da se u svim udžbenicima Fondacije obrađuje identično gradivo, a nepobedivi su jer su jeftiniji.<br><i>~ Branko Jovanović</i></td>
+        <td>
         Podržavam fondaciju zato što radi plemenitu stvar i zato što sam roditelj dva deteta u osnovnoj školi koji bi želeo da podrži ovakvu ideju, ali mu nažalost nije data prilika jer škola u koju moja deca idu, ne podržava ovu inicijativu. Takođe sam i nastavnica engleskog jezika i od ove školske godine prihvatila sam udžbenik fondacije i koristim ga u nastavi. Užbenik je odličan. Teme prilagođene uzrastu, podeljene na jasne celine. Radna sveska prati udžbenik. Na digitalnom udžbeniku je sav materijal i uspešno ga koristimo na časovima. Na osnovu sopstvenog iskustva poručujem roditeljima i ostalim nastavnicima da izaberu udžbenike fondacije jer će uštedeti novac ali ne na uštrb kvaliteta. <br><i>~ Anonimno</i> 
       </td>
    </tr>
@@ -246,7 +256,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=KXMHT296ubo"> Govornica (april 2021) </a>
   </td></tr><tr><td>
-   <a href="https://www.youtube.com/watch?v=ymOLJ4vdiTQ"> Medju Nama (mart 2021) </a>
+   <a href="https://www.youtube.com/watch?v=ymOLJ4vdiTQ"> Među Nama (mart 2021) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=_NJ1YOVfzE4"> Utisak Nedelje (mart 2021) </a>
   </td></tr><tr><td>

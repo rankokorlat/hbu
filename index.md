@@ -230,6 +230,8 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 <table id="table1">
   <tr><td>
+   <a href="https://www.youtube.com/watch?v=Hy_qUbZD35Q">Da sam ja neko (jan 2023) </a>
+  </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=Go64B_Ddy8w">Pregled dana Newsmax Adria (sept 2022) </a>
   </td></tr><tr><td>
    <a href="https://www.youtube.com/watch?v=FziWiid9kc4">N1 (sept 2022) </a>

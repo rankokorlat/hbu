@@ -6,7 +6,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
 
 1. Besplatni digitalni format kome mozete pristupiti na <a href="https://www.besplatnabiblioteka.com/">www.besplatnabiblioteka.com</a>
 2. Besplatne štampane knjige Zavoda za udžbenike i nastavna sredstva
-3. Udžbenike od izdavača saradnika po ceni od 2 dinara po stranici
+3. Udžbenike od izdavača saradnika po ceni od 2,2 dinara po stranici
 
 # Resursi za škole i roditelje
 

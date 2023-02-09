@@ -14,7 +14,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   <tr><td>
    <a href="https://www.besplatnabiblioteka.com/">Besplatna biblioteka</a>
   </td></tr><tr><td>
-   <a href="https://www.digitalniudzbenik.com/">Besplatni digitalni udžbenici</a>
+   <a href="https://interaktivnabiblioteka.com/">Besplatni digitalni udžbenici</a>
   </td></tr><tr><td>
    <a href="https://naruci.fondacijaalekkavcic.org/">Online prodavnica za naručivanje udžbenika</a>
   </td></tr><tr><td>

@@ -18,7 +18,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
    <a href="https://naruci.fondacijaalekkavcic.org/">Online prodavnica za naručivanje udžbenika</a>
   </td></tr><tr><td>
-   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak-udzbenika-Fondacija-Alek-Kavcic.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
+   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak-udzbenika-od-1-feb-2023.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
   </td></tr><tr><td>
    <a href="https://twitter.com/FondacijaAK/status/1364968116736950273/photo/1">Česta pitanja i odgovori</a>
   </td></tr><tr><td>

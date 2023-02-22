@@ -18,13 +18,17 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
    <a href="https://naruci.fondacijaalekkavcic.org/">Online prodavnica za naručivanje udžbenika</a>
   </td></tr><tr><td>
-   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak-udzbenika-od-1-feb-2023.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
+   <a href="assets/docs/cenovnik_2023.pdf">Cenovnik štampanih izdanja udžbenika</a>
+  </td></tr><tr><td>
+   <a href="assets/docs/uputstvo_koordinatorima.pdf">Sve što treba da znate o Fondaciji Alek Kavčić i besplatnim udžbenicima (uvod za tribine)</a>
+  </td></tr><tr><td>
+   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak-udžbenika-13-2-2023.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
+  </td></tr><tr><td>
+   <a href="https://mpn.gov.rs/prosveta/udzbenici/udzbenici-za-osnovnu-skolu/">Lista odobrenih udžbenika na stranici Ministarstva prosvete, nauke i tehnološkog razvoja</a>
   </td></tr><tr><td>
    <a href="https://twitter.com/FondacijaAK/status/1364968116736950273/photo/1">Česta pitanja i odgovori</a>
   </td></tr><tr><td>
    <a href="https://pbs.twimg.com/media/FHN-X3cWYAsW5nM?format=jpg&name=4096x4096">Dopis školama</a>
-  </td></tr><tr><td>
-   <a href="https://mpn.gov.rs/prosveta/udzbenici/udzbenici-za-osnovnu-skolu/">Lista odobrenih udžbenika na stranici Ministarstva prosvete, nauke i tehnološkog razvoja</a>
   </td></tr><tr><td>
    <a href="https://twitter.com/FondacijaAK/status/1361888953763160069/photo/1">Plakat za besplatne udžbenike</a>
   </td></tr><tr><td>

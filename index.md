@@ -22,7 +22,7 @@ Fondacija Alek Kavčić nudi tri vrste udžbenika:
   </td></tr><tr><td>
    <a href="assets/docs/uputstvo_koordinatorima.pdf">Sve što treba da znate o Fondaciji Alek Kavčić i besplatnim udžbenicima (uvod za tribine)</a>
   </td></tr><tr><td>
-   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak_udzbenika_za_sajt_15_3_2023.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
+   <a href="https://www.besplatnabiblioteka.com/knjige/Spisak_udzbenika_za_sajt_23maj_2023.pdf">Lista besplatnih udžbenika sa brojem odobrenja za korišćenje od strane Ministarstva prosvete</a>
   </td></tr><tr><td>
    <a href="https://mpn.gov.rs/prosveta/udzbenici/udzbenici-za-osnovnu-skolu/">Lista odobrenih udžbenika na stranici Ministarstva prosvete, nauke i tehnološkog razvoja</a>
   </td></tr><tr><td>
